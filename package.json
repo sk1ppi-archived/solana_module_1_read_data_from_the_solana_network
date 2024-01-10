@@ -1,0 +1,28 @@
+{
+  "name": "@sk1ppi/solana-module-1-read-data-from-the-solana-network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sk1ppi/solana_module_1_read_data_from_the_solana_network.git"
+  },
+  "keywords": [
+    "solana"
+  ],
+  "author": "sk1ppi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sk1ppi/solana_module_1_read_data_from_the_solana_network/issues"
+  },
+  "homepage": "https://github.com/sk1ppi/solana_module_1_read_data_from_the_solana_network#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.88.0"
+  }
+}
